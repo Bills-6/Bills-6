@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![gambar](img/0074199850.JPG)
 <!--
 **Bills-6/Bills-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
